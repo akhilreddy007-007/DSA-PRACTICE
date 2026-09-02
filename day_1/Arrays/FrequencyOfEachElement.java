@@ -2,7 +2,7 @@ package day_1.Arrays;
 import java.util.Scanner;
 public class FrequencyOfEachElement {
 	
-	
+	//Frequency of Each Element 
 		public static void main(String[] args) {
 			Scanner sc = new Scanner(System.in);
 			System.out.println("enter array size");
@@ -14,7 +14,7 @@ public class FrequencyOfEachElement {
 			}
 			
 				freq(a);
-				
+				System.out.println();
 		}
 		//10 20 10 20 30 40
 		public static void freq(int []a)

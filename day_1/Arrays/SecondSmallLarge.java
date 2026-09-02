@@ -17,7 +17,7 @@ public class SecondSmallLarge {
 		if(a.length==1) {
 			System.out.println("Second Smallest : -1");
 			System.out.println("Second Largest : -1");
-			System.exit(0);
+			System.exit(0); 
 		}
 		Arrays.sort(a);
 //		Second Smallest : 2  

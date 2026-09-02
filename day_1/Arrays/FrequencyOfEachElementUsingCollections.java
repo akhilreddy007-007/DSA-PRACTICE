@@ -12,7 +12,7 @@ public static void main(String[] args) {
 	for(int i=0;i<n;i++) {
 		al.add(sc.nextInt());
 	}
-	System.out.println();
+
 	/*
 	for(int i=0;i<n;i++) {
 	System.out.println("frequency of "+al.get(i)+" is "+Collections.frequency(al, al.get(i)));	
@@ -27,6 +27,7 @@ frequency of 6 is 1
 frequency of 4 is 2
 frequency of 2 is 1
 frequency of 4 is 2
+
 but here problem is, 4 value is 2 frequency and it is repeting 2 times
 */
 	HashSet <Integer> hs = new HashSet <Integer>(al);

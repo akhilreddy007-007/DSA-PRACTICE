@@ -12,7 +12,7 @@ public static void main(String[] args) {
 	for(int i=0;i<n;i++) {
 		al.add(sc.nextInt());
 	}
-	
+	System.out.println();
 	/*
 	for(int i=0;i<n;i++) {
 	System.out.println("frequency of "+al.get(i)+" is "+Collections.frequency(al, al.get(i)));	

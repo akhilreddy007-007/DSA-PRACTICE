@@ -31,7 +31,6 @@ public class Remove_Duplicates_in_place_from_Sorted_Array_1 {
 
 	       
 	        int k = i + 1;
-
 	        System.out.println("Number of unique elements: " + k);
 
 	        System.out.println("Array after removing duplicates:");

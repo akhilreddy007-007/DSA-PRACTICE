@@ -12,7 +12,7 @@ public static void main(String[] args) {
 	{ 
 		set.add(num); 
 	}
-	System.out.print("Array after removing duplicates:"); 
+	System.out.println ("Array after removing duplicates:"); 
 	for (int num : set) 
 	{
 		System.out.print(num + " "); 

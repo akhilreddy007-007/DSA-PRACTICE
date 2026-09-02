@@ -19,7 +19,6 @@ if(a[i]<min)
 	min=a[i];
 }
 		}
-		System.out.println(min+" is the smallest element in the array.");
-		
+		System.out.println(min+" is the smallest element in the array.");	
 	}
 }

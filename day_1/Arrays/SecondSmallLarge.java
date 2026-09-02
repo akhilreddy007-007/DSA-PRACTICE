@@ -21,7 +21,7 @@ public class SecondSmallLarge {
 		}
 		Arrays.sort(a);
 //		Second Smallest : 2  
-//		Second Largest : 5
+//		Second Largest : 5 
 		for (int i=0;i<a.length;i++) {
 			System.out.println(a[i]);
 }

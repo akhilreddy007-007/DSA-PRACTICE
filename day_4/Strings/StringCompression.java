@@ -1,5 +1,5 @@
 package day_4.Strings;
-
+//Two Pointers approch
 import java.util.Scanner;
 
 public class StringCompression {

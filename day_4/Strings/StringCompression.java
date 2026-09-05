@@ -24,7 +24,15 @@ public static void main(String[] args) {
 	//Both will print Same output.
 	System.out.println(sb);
 	System.out.println(sb.toString());
-	
+
+	/*
+	 * ouput
+	 * ~~~~~
+	 * Enter String
+	 * aaabbccaaa
+	 *a3b2c2a3
+	 *a3b2c2a3
+	 */
 	
 	
 	

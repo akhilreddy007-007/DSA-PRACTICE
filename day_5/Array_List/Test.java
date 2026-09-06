@@ -19,5 +19,6 @@ maxPQ.offer(10);
 maxPQ.offer(20);
 System.out.println("Max poll: " + maxPQ.poll());
 System.out.println("Peek: " + minPQ.peek());
+
 }
 }

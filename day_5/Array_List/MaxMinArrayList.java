@@ -26,6 +26,7 @@ public class MaxMinArrayList {
         System.out.println("Maximum = " + max);
         System.out.println("Minimum = " + min);
         System.out.println("using collections");
+        // we can find max,min using collections and using logic.
     System.out.println(Collections.max(list));
     System.out.println(Collections.min(list));
     }

@@ -1,5 +1,16 @@
 package day_8.Searching_Techniques;
 
+/*
+Complexity
+Time  → O(log n)
+Space → O(log n)   ← recursion stack
+So:
+Iterative Binary Search → O(1) extra space
+Recursive Binary Search → O(log n) stack space
+ */
+
+
+
 import java.util.Scanner;
 
 public class RecursiveBinarySearch {

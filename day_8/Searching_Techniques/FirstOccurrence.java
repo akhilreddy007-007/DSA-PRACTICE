@@ -1,5 +1,10 @@
 package day_8.Searching_Techniques;
 
+/*
+First occurrence → target found → go LEFT
+
+Last occurrence  → target found → go RIGHT
+*/
 
 import java.util.Scanner;
 

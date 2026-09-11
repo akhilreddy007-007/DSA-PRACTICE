@@ -9,8 +9,6 @@ Iterative Binary Search → O(1) extra space
 Recursive Binary Search → O(log n) stack space
  */
 
-
-
 import java.util.Scanner;
 
 public class RecursiveBinarySearch {

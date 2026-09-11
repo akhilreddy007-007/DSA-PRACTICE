@@ -58,3 +58,12 @@ public class FirstOccurrence {
     	}	
     }
 }
+
+// How many Elements want to insert
+// 5
+// Enter 5 Array Elements
+// 10 20 20 20 30
+// Enter Target Element
+// 20
+// Index: 1
+

@@ -32,3 +32,7 @@ public class SelectionSort {
         }
     }
 }
+/*
+Time: O(n²)
+Space: O(1)
+*/

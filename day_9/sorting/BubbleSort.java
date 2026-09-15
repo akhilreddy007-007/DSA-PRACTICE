@@ -24,3 +24,8 @@ public class BubbleSort {
         }
     }
 }
+
+/*
+Time: O(n²)
+Space: O(1)
+*/

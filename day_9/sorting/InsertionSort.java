@@ -30,3 +30,8 @@ public class InsertionSort {
         }
     }
 }
+/*
+Time: O(n²)
+Best: O(n)
+Space: O(1)
+*/
